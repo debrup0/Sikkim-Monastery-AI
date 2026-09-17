@@ -1,0 +1,6 @@
+{
+  "name": "Sikkim Monasteries Cultural Guide",
+  "description": "Comprehensive Sikkim monastic portal featuring E-Permits & ILP, direct monastic stays, smart itinerary planner, artisan marketplace, audio guides, crowd telemetry, and offline backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
